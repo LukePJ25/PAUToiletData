@@ -1,1 +1,24 @@
-{}
+[
+	{
+		"name": "D Floor Library Toilets",
+		"building": "Hugh Owen",
+		"location" : [
+			52.41630621422134, -4.063704929103349
+		],
+		"floor": "D",
+		"gender": 2,
+		"scores": {
+			"handdriers": true,
+			"floorceilingcubicles": true,
+			"manualflush": true,
+			"windows": false,
+			"tappressure": 7,
+			"cubicles": 7,
+			"quietness": 5,
+			"cleanliness": 8,
+			"soapuptime": 7,
+			"tpuptime": 8,
+			"lighting": 8,
+		}
+	}
+]
