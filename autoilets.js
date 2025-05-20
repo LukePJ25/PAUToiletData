@@ -1,4 +1,4 @@
-[
+const bogs = [
 	{
 		"name": "D Floor Library Toilets",
 		"building": "Hugh Owen",
@@ -114,4 +114,4 @@
 			"lighting": 5
 		}
 	}
-]
+];
