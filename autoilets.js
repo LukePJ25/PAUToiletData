@@ -116,7 +116,7 @@ const bogs = [
 	},
 	{
 		"name": "Llandinam Top Floor",
-		"building": "MP",
+		"building": "Llandinam",
 		"location" : [
 			52.41670064058521, -4.066624147156847
 		],
