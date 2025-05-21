@@ -138,8 +138,8 @@ const bogs = [
 		}
 	},
 	{
-		"name": "MP Main Floor Mens",
-		"building": "MP",
+		"name": "Physical Sciences Main Floor Mens",
+		"building": "Physical Sciences",
 		"location" : [
 			52.41605786753717, -4.06552391189433
 		],
@@ -253,8 +253,8 @@ const bogs = [
 		}
 	},
 	{
-		"name": "MP Top Floor Mens",
-		"building": "MP",
+		"name": "Physical Sciences Top Floor Mens",
+		"building": "Physical Sciences",
 		"location" : [
 			52.41586052500259, -4.065638347805913
 		],
