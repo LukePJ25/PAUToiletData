@@ -1,6 +1,6 @@
 const bogs = [
 	{
-		"name": "D Floor Library Toilets",
+		"name": "Hugh Owen D Floor Library Toilets",
 		"building": "Hugh Owen",
 		"location" : [
 			52.41630621422134, -4.063704929103349
@@ -220,7 +220,7 @@ const bogs = [
 			"floorceilingcubicles": 1,
 			"manualflush": 1,
 			"windows": 1,
-			"tappressure": 3,
+			"tappressure": 6,
 			"cubicles": 2,
 			"quietness": 3,
 			"cleanliness": 7,
@@ -273,6 +273,30 @@ const bogs = [
 			"soapuptime": 5,
 			"tpuptime": 6,
 			"lighting": 10
+		}
+	},
+	{
+		"name": "Hugh Owen Library E Floor Mens",
+		"building": "Hugh Owen",
+		"floor": "E",
+		"gender": 0,
+		"location": [
+			52.4160469,
+			-4.0635443
+		],
+		"notes": "No Notes",
+		"scores": {
+			"handdriers": 1,
+			"floorceilingcubicles": 0,
+			"manualflush": 1,
+			"windows": 0,
+			"tappressure": 7,
+			"cubicles": 1,
+			"quietness": 6,
+			"cleanliness": 6,
+			"soapuptime": 8,
+			"tpuptime": 8,
+			"lighting": 8
 		}
 	}
 ];
