@@ -550,5 +550,28 @@ const bogs = [
       "tpuptime": 6,
       "lighting": 8
     }
+  },
+  {
+	"name": "Penbryn Womens First Floor",
+	"building": "Penbryn",
+	"location": [
+		52.418024629962105, -4.064770227856797
+    ],
+	"floor": "1",
+	"gender": 1,
+	"notes": "Sexist placement.",
+	"scores": {
+      "handdriers": 1,
+      "floorceilingcubicles": 0,
+      "manualflush": 1,
+      "windows": 1,
+      "tappressure": 7,
+      "cubicles": 2,
+      "quietness": 8,
+      "cleanliness": 6,
+      "soapuptime": 6,
+      "tpuptime": 8,
+      "lighting": 4
+	}
   }
 ];
