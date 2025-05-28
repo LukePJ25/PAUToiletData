@@ -573,5 +573,110 @@ const bogs = [
       "tpuptime": 8,
       "lighting": 4
 	}
+  },
+  {
+    "name": "Llandinam Floor K Unisex",
+    "building": "Llandinam",
+    "location": [52.4167006405, -4.0666241471],
+    "floor": "K",
+    "gender": 2,
+    "notes": "Comes with it's own clock",
+    "scores": {
+      "handdriers": 0,
+      "floorceilingcubicles": 1,
+      "manualflush": 1,
+      "windows": 1,
+      "tappressure": 5,
+      "cubicles": 1,
+      "quietness": 9,
+      "cleanliness": 7,
+      "soapuptime": 4,
+      "tpuptime": 5,
+      "lighting": 7
+    }
+  },
+  {
+    "name": "Llandinam Floor J Unisex",
+    "building": "Llandinam",
+    "location": [52.4167006405, -4.0666241471],
+    "floor": "J",
+    "gender": 2,
+    "notes": "Forbidden Tampons",
+    "scores": {
+      "handdriers": 0,
+      "floorceilingcubicles": 1,
+      "manualflush": 1,
+      "windows": 1,
+      "tappressure": 4,
+      "cubicles": 1,
+      "quietness": 8,
+      "cleanliness": 6,
+      "soapuptime": 7,
+      "tpuptime": 7,
+      "lighting": 7
+    }
+  },
+  {
+    "name": "Llandinam Floor H Unisex",
+    "building": "Llandinam",
+    "location": [52.4167006405, -4.0666241471],
+    "floor": "H",
+    "gender": 2,
+    "notes": "No Notes",
+    "scores": {
+      "handdriers": 0,
+      "floorceilingcubicles": 1,
+      "manualflush": 1,
+      "windows": 1,
+      "tappressure": 8,
+      "cubicles": 1,
+      "quietness": 7,
+      "cleanliness": 6,
+      "soapuptime": 8,
+      "tpuptime": 6,
+      "lighting": 7
+    }
+  },
+  {
+    "name": "Llandinam Floor G Unisex",
+    "building": "Llandinam",
+    "location": [52.4167006405, -4.0666241471],
+    "floor": "G",
+    "gender": 2,
+    "notes": "No Notes",
+    "scores": {
+      "handdriers": 0,
+      "floorceilingcubicles": 1,
+      "manualflush": 1,
+      "windows": 1,
+      "tappressure": 7,
+      "cubicles": 1,
+      "quietness": 7,
+      "cleanliness": 7,
+      "soapuptime": 8,
+      "tpuptime": 7,
+      "lighting": 6
+    }
+  },
+  {
+    "name": "Llandinam Floor F Unisex",
+    "building": "Llandinam",
+    "location": [52.4167006405, -4.0666241471],
+    "floor": "F",
+    "gender": 2,
+    "notes": "No Notes",
+    "scores": {
+      "handdriers": 0,
+      "floorceilingcubicles": 1,
+      "manualflush": 1,
+      "windows": 1,
+      "tappressure": 6,
+      "cubicles": 1,
+      "quietness": 6,
+      "cleanliness": 7,
+      "soapuptime": 7,
+      "tpuptime": 7,
+      "lighting": 5
+    }
   }
 ];
